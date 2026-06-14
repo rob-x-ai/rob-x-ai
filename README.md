@@ -1,7 +1,5 @@
 # Robin Kroonen
 
-**Founder & CEO, [Kroonen AI](https://kroonen.ai)** · Delaware, USA
-
 Building the **Libre ecosystem** — privacy-first AI infrastructure, terminal agents, communications systems, and model research for teams that refuse bloated SaaS stacks.
 
 ---
