@@ -7,4 +7,4 @@ Shipping the tools I actually use.
 
 Genesis 1B · [Libre WebUI](https://librewebui.org) · [Libre Claw](https://libreclaw.sh)
 
-[@kroonen_ai](https://x.com/rob_x_ai) · [Hugging Face](https://huggingface.co/rob-x-ai)
+[X](https://x.com/rob_x_ai) · [Hugging Face](https://huggingface.co/rob-x-ai)
