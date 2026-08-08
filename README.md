@@ -5,6 +5,6 @@ Building [Kroonen AI](https://kroonen.ai).
 Training models from scratch on my own hardware.
 Shipping the tools I actually use.
 
-Genesis 1B · [Libre WebUI](https://librewebui.org) · [Libre Claw](https://libreclaw.sh)
+[Genesis 1B](https://kroonen.ai/blog/) · [Libre WebUI](https://librewebui.org) · [Libre Claw](https://libreclaw.sh)
 
 [X](https://x.com/rob_x_ai) · [Hugging Face](https://huggingface.co/rob-x-ai)
