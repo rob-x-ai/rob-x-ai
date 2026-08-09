@@ -1,4 +1,4 @@
-<img width="3376" height="1440" alt="lwui" src="https://github.com/user-attachments/assets/23b2a83e-f220-4288-b0ac-1b4c51281e21" />
+<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/08e73ff0-3187-4b69-b912-212e72520019" />
 
 Building [Kroonen AI](https://kroonen.ai).
 
