@@ -1,4 +1,4 @@
-<img width="1200" height="630" alt="image" src="https://github.com/user-attachments/assets/08e73ff0-3187-4b69-b912-212e72520019" />
+<img width="2944" height="1648" alt="rob-x-ai_sunrise_over_a_green_valley_city_terraced_gardens_an_409cf72e-d872-4ad9-99c8-588ffd56d77a_2" src="https://github.com/user-attachments/assets/64fdf2a4-aa33-4c3e-b3c6-d1171fe77c57" />
 
 Building [Kroonen AI](https://kroonen.ai).
 
